@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300316195291",
+    "project_id": "swiftcollect-jzh5n",
+    "storage_bucket": "swiftcollect-jzh5n.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300316195291:android:6b877d964adb14a2510ffe",
+        "android_client_info": {
+          "package_name": "com.example.mulmet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuR9qjq5BlsH0c_bQiHWh1GzjCmh_y5_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
